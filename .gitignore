@@ -1,0 +1,4 @@
+# Archivos grandes
+hateSpeechDataset/ClassicalModels/HateSpeechDataset.csv
+twitterDataset/classicalModels/*.pkl
+hateSpeechDataset/RNN/*.csv
